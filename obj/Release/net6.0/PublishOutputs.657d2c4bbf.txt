@@ -1,0 +1,7 @@
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.exe
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.dll
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.deps.json
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.runtimeconfig.json
+C:\PROJECTS\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.pdb
